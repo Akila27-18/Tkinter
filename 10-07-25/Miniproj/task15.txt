@@ -1,0 +1,6 @@
+Expense Report
+
+ID: 1, Category: Milk, Amount: ₹200.00
+ID: 2, Category: Cashew, Amount: ₹1000.00
+
+Total Expenses: ₹1200.00
